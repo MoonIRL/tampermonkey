@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
 // @description  在剧皮皮所有域名上 ，为所有剧集自动记录、提示观看进度，并提供一个带导入导出功能的统一观看历史页面。
-// @author       Manus
+// @author       MoonIRL
 // @match        https://www.jupipi.fun/*
 // @match        https://www.jupipi.pro/*
 // @match        https://www.jupipi.me/*

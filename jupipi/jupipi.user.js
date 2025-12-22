@@ -15,8 +15,8 @@
 // @grant        GM_addStyle
 // @require      https://cdn.jsdelivr.net/npm/sweetalert2@11
 // @license      MIT
-// @downloadURL  https://github.com/MoonIRL/tampermonkey/blob/main/jupipi/jupipi.js
-// @updateURL    https://raw.githubusercontent.com/MoonIRL/tampermonkey/refs/heads/main/jupipi/jupipi.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/MoonIRL/tampermonkey@latest/jupipi/jupipi.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/MoonIRL/tampermonkey@latest/jupipi/jupipi.user.js
 // ==/UserScript==
 
 
